@@ -9,7 +9,7 @@ i`m a frontend web and mobile developer passionate about building interactive an
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with anything that can change my life
 - 💬 Ask me about React, Frontend Development
-- 📫 How to reach me: https://x.com/ClassicMike17
+- 📫 How to reach me: https://x.com/IFearAids
 - 😄 Pronouns: ME,IFearAids
 - ⚡ Fun fact: i love animes and wrestling
 
